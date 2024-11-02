@@ -1,5 +1,5 @@
 
-# Temperature_Converter_Website
+# Temperature_Converter-Using HTML, CSS and Javascript
 This repository contains the source code and assets for a portfolio website built using HTML, JavaScript, and CSS.
 
 Link : https://github.com/harishyarva13/Temperature-Converter.git
@@ -12,7 +12,7 @@ The website serves as a showcase for your work and provides information about yo
 * Conversion calculations for Celsius to Fahrenheit, Fahrenheit to Celsius, Celsius to Kelvin, Fahrenheit to Kelvin, Kelvin to Celsius, and Kelvin to Fahrenheit.
 * Display area to show the converted temperature with the correct unit.
   
-# Project Technologies Used
+# Technologies:
 * HTML5
 * CSS3
 * JavaScript (ES6)
@@ -53,6 +53,3 @@ To deploy your website, you have options:
 
 * GitHub Pages: Push your code to a GitHub repository and enable GitHub Pages to host your website.
 
-
-# License
-This project is licensed under the MIT License.
